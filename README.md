@@ -10,9 +10,11 @@
 
 - [_“Security Through Clarity” and Why Programming Languages and Architecture Matter_ by François-René Rideau](https://glow-lang.org/talks/security-through-clarity-2021/)
 
-* [_Web3 Bug Bounties and Entrepeneurial Adventures_ by Shivani Sharma and Zoe Braiterman](https://www.youtube.com/watch?v=jNDDX2bRfEY)
+* [_Web3 Bug Bounties and Entrepreneurial Adventures_ by Shivani Sharma and Zoe Braiterman](https://www.youtube.com/watch?v=jNDDX2bRfEY)
 
-* - _Security Saturdays_, weekly X Space led by [Jon McCoy](https://twitter.com/thejonmccoy)
+* _Security Saturdays_, weekly X Space led by [Jon McCoy](https://twitter.com/thejonmccoy)
+
+* The [_Crypto Barons_ playlist](https://www.youtube.com/playlist?list=PLVlyibl6-NOhQIhQfelgSL1tExH8hEgfM) on the Defcon 201 YouTube channel
 
 * [_Is Blockchain Really Secure??_ by Shrutirupa Banerjiee](https://www.youtube.com/watch?v=Wf--4IRd1mY)
 
