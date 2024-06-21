@@ -25,3 +25,9 @@
 - [The _Real World Blockchain_ podcast by Gauthier Lamothe, Niles Lee-Smith, Rebeca Kaplan and Zoe Braiterman](https://www.youtube.com/playlist?list=PLt68TvyH77C0V4z6asL2OOJqrCuSguHiq)
 
 * [_From Bitcoin to Altcoins: Expanding Your Business’s Crypto Payment Horizons_ by Alex Hochberger, MBA](https://web3enabler.com/2024/02/15/expanding-business-altcoin-payments/)
+
+## Scaling
+
+- [Sky Protocol whitepaper](https://skyprotocol.org/technical-wp.pdf)
+
+- [InterPlanetary Consensus](https://www.ipc.space)
